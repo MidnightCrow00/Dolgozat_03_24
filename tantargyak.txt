@@ -1,0 +1,8 @@
+NÉV;KREDIT;TANÁR1;TANÁR2;FÉLÉV;CSAK_VIZSGA
+informatika;3;Kovács Imre;Turán Lajos;1;nem
+informatika;4;Kovács Imre;Horvát Rudolf;3;igen
+matematika;2;Kiss Ádám;-;1;nem
+matematika;5;Szekeres Barnabás;Roffer Rozália;3;nem
+történelem;4;Hollenzoller Gerzson;-;2;nem
+irodalom;4;Kovács József;Hollenzoller Gerzson;3;igen
+irodalom;3;Hollenzoller Gerzson;-;1;nem
